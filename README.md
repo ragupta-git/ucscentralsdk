@@ -5,7 +5,7 @@
 # Python SDK for Cisco UCS Central
 
 * Apache License, Version 2.0 (the "License") 
-* Documentation: https://CiscoUcs.github.io/ucscentralsdk_docs/
+* Documentation: https://ragupta-git.github.io/ucscentralsdk_docs/
 
 ## Installation
 ```
